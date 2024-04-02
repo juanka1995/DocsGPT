@@ -1,0 +1,4 @@
+openai.key
+input/
+output/
+*.pyc
